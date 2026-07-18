@@ -1,6 +1,6 @@
-# GestureGlide
+# Gesture Controlled Computer
 
-GestureGlide is a Python application that transforms your webcam into a touchless controller. By leveraging MediaPipe's precise hand tracking and OpenCV's real-time computer vision capabilities, the script translates human hand gestures into physical mouse movements, clicks, and scrolls on your operating system.
+This is a Python application that transforms your webcam into a touchless controller. By leveraging MediaPipe's precise hand tracking and OpenCV's real-time computer vision capabilities, the script translates human hand gestures into physical mouse movements, clicks, and scrolls on your operating system.
 
 ## Features
 
